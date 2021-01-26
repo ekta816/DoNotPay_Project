@@ -1,0 +1,51 @@
+.task-input {
+  background: #d1f098;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  border: none;
+  font-size: 16px;
+}
+
+.button {
+  border-radius: 2px;
+  padding: 10px 0px 10px 0px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.85;
+  transition: 0.3s;
+}
+
+.add-button {
+  background-color: #52AA32;
+  width: 50%;
+}
+
+.cancel-button {
+  background-color: #832c25;
+  width: 50%;
+}
+
+.open-add-button {
+  padding: 8px;
+  border-radius: 2px;
+}
+
+.open-add-button a {
+  text-decoration: none;
+}
+
+.list .open-add-button:hover {
+  background: #f8f6f6;
+}
+
+.list .open-add-button a {
+  color: black;
+}

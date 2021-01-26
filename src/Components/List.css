@@ -1,0 +1,26 @@
+.list {
+  list-style-type: none;
+  padding-left: 0;
+  background: #f7f7f7;
+  margin: 0 5px;
+  padding: 8px;
+  border-radius: 2px;
+}
+
+.name-header {
+  text-align: center;
+  padding: 6px 6px;
+  margin: 0;
+}
+
+.name-0 {
+  background-color: #ec8d1c;
+}
+
+.name-1 {
+  background-color: #4ba8ef;
+}
+
+.name-2 {
+  background-color: #5cc633;
+}
